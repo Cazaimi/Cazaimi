@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anmol and I currently work at [Postman](www.postman.com). I love puzzles 🧩  and software 👨‍💻, and sometimes both at the same time!
+I'm Anmol. I love puzzles 🧩  and software 👨‍💻, and sometimes both at the same time!
 
 Want to chat? Hit me up at https://twitter.com/cazaimi
 
